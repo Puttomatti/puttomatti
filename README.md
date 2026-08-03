@@ -20,8 +20,6 @@ Antes de entrar em TI, passei 8 meses como jovem aprendiz na área financeira (c
 
 Tô sempre aberto a conversar sobre Dados, IA, ou oportunidades. Se você chegou até aqui, já é motivo pra gente se conectar.
 
-- LinkedIn: [linkedin.com/in/arthurputtomatti](https://www.linkedin.com/in/arthurputtomatti)
-- Email: arthurputtomatti22@gmail.com
 
 ---
 
