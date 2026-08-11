@@ -1,6 +1,6 @@
 ### 👋 Arthur Putomatti
 
-**Curioso por natureza. Analista por escolha.**
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=64748B&center=true&vCenter=true&width=440&lines=Curioso+por+natureza.;Analista+por+escolha.)
 
 Sempre fui apaixonado por tecnologia. Antes de entrar em TI, passei 8 meses como jovem aprendiz na área financeira (cobrança e relacionamento com cliente, via CRM Dynamics) foi ali que aprendi a organizar processos e resolver o problema de alguém do outro lado. Hoje uno essas duas experiências: dados, lógica e tecnologia.
 
@@ -9,10 +9,10 @@ Sempre fui apaixonado por tecnologia. Antes de entrar em TI, passei 8 meses como
 
 ### 📌 Atualmente
 
-🐍 Evoluindo em Python
-📊 Construindo projetos com Power BI e Excel
-🤖 Aplicando IA Generativa no dia a dia
-🎯 Buscando minha primeira oportunidade como Analista de Dados
+- 🐍 Evoluindo em Python
+- 📊 Construindo projetos com Power BI e Excel
+- 🤖 Aplicando IA Generativa no dia a dia
+- 🎯 Buscando minha primeira oportunidade como Analista de Dados
 
 ### 🔎 Dá uma olhada
 
@@ -26,9 +26,11 @@ Já passei horas do outro lado da linha resolvendo problema de cliente hoje é c
 
 ### 🛠️ Tecnologias
 
-![Python](https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-3B4FA1?style=for-the-badge&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-2F6690?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-4A5FBF?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-24243E?style=for-the-badge&logo=github&logoColor=white)
-![IA](https://img.shields.io/badge/🧠_IA-6C63FF?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-64748B?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-71717A?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-52525B?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-6B7280?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-3F3F46?style=for-the-badge&logo=github&logoColor=white)
+![IA](https://img.shields.io/badge/🧠_IA-4B5563?style=for-the-badge&logoColor=white)
+
+![wave](https://capsule-render.vercel.app/api?type=rect&color=64748B&height=2&section=footer)
