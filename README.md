@@ -26,5 +26,5 @@ Pretendo continuar evoluindo esses projetos conforme avanço nos estudos.
 
 Python | Power BI | Excel | Git | GitHub | HTML | CSS | JavaScript
 
-📍 São Paulo, SP  
+
 🔗 LinkedIn: linkedin.com/in/arthurputtomatti
