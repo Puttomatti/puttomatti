@@ -28,7 +28,7 @@ Os projetos serão evoluídos gradualmente conforme avanço nos estudos e aplico
 
 ## 🛠️ Tecnologias
 
-**Python | Power BI | Excel | Git | GitHub • HTML • CSS | JavaScript**
+**Python | Power BI | Excel | Git | GitHub | HTML | CSS | JavaScript**
 
 ## 🤝 Vamos nos conectar?
 
