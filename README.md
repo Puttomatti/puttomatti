@@ -17,9 +17,9 @@ No repositório **Exercicios-Python**, organizo exercícios e pequenos sistemas 
 
 Alguns projetos ganharam repositórios próprios conforme foram evoluindo:
 
-- **[Sistema de Biblioteca em Python](https://github.com/Puttomatti/sistema-biblioteca-python)** — projeto utilizando Programação Orientada a Objetos para cadastro, empréstimo e devolução de livros.
+- **[Sistema de Biblioteca em Python](https://github.com/Puttomatti/sistema-biblioteca-python)** - projeto utilizando Programação Orientada a Objetos para cadastro, empréstimo e devolução de livros.
 
-- **[Simulador de Fila de Atendimento](https://github.com/Puttomatti/simulador-fila-python)** — simulação de atendimento utilizando Python, FIFO, `deque` e estruturas de dados.
+- **[Simulador de Fila de Atendimento](https://github.com/Puttomatti/simulador-fila-python)** - simulação de atendimento utilizando Python, FIFO, `deque` e estruturas de dados.
 
 Continuo evoluindo esses projetos e criando novos conforme avanço nos estudos.
 
