@@ -1,34 +1,37 @@
-### 👋 Arthur Putomatti
+# 👋 Olá, eu sou Arthur Puttomatti
 
-![Static Badge](https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=2000&color=64748B&center=true&vCenter=true&width=440&separator=false&lines=Curioso+por+natureza.+Analista+por+escolha.)
+**Estudante de Análise e Desenvolvimento de Sistemas | Python | Dados | Automação**
 
-Sempre fui apaixonado por tecnologia. Antes de entrar em TI, passei 8 meses como jovem aprendiz na área financeira (cobrança e relacionamento com cliente, via CRM Dynamics) foi ali que aprendi a organizar processos e resolver o problema de alguém do outro lado. Hoje uno essas duas experiências: dados, lógica e tecnologia.
+Curioso por natureza e interessado em entender como tecnologia pode simplificar problemas reais.
 
-> ## 💡 Minha missão
-> Trazer pra tecnologia a mesma atenção a processos e pessoas que aprendi lidando com clientes de verdade só que agora automatizada.
+Minha experiência profissional começou em áreas de atendimento, vendas e financeiro. Na área de cobrança, tive contato com Microsoft Dynamics CRM, Excel, organização de informações e melhoria de processos. Hoje, levo essa experiência para minha formação em tecnologia e para os projetos que desenvolvo.
 
-### 📌 Atualmente
+## 📌 Atualmente
 
-- 🐍 Evoluindo em Python
-- 📊 Construindo projetos com Power BI e Excel
-- 🤖 Aplicando IA Generativa no dia a dia
-- 🎯 Buscando minha primeira oportunidade como Analista de Dados
+* 🐍 Evoluindo em **Python** e fundamentos de programação
+* 📊 Desenvolvendo conhecimentos em **Power BI e Excel**
+* ⚙️ Explorando **automação aplicada a dados e processos**
+* 🤖 Estudando e utilizando **Inteligência Artificial generativa**
+* 💻 Construindo projetos para aplicar programação, estruturas de dados e resolução de problemas
+* 🎯 Buscando oportunidades de **estágio ou início de carreira em Tecnologia, Dados, BI, Automação e Sistemas**
 
-### 🔎 Dá uma olhada
+## 🔎 Projetos e estudos
 
-[Exercícios em Python](#) onde documento cada exercício, do básico aos meus dois projetos mais completos até aqui: um sistema de biblioteca (POO) e uma simulação de fila de atendimento (FIFO) essa última, aliás, veio direto da experiência com fila de atendimento no CRM.
+No repositório **Exercicios-Python**, registro minha evolução em Python por meio de exercícios, pequenos sistemas e projetos.
 
-### 💬 Bora trocar uma ideia?
+Entre os projetos desenvolvidos estão:
 
-Já passei horas do outro lado da linha resolvendo problema de cliente hoje é código, mas o interesse genuíno em ajudar continua o mesmo. Se você chegou até aqui, já é motivo pra gente se conectar.
+* 📚 **Sistema de Gerenciamento de Biblioteca** - Python e Programação Orientada a Objetos
+* 👥 **Simulador de Fila de Atendimento** - Python, FIFO e estruturas de dados
 
-<br>
+Os projetos serão evoluídos gradualmente conforme avanço nos estudos e aplico novos conceitos.
 
-### 🛠️ Tecnologias
+## 🛠️ Tecnologias
 
-![Python](https://img.shields.io/badge/Python-2D4A4A?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-3D5C5C?style=for-the-badge&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-4A6363?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-5C7070?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-2A3B3B?style=for-the-badge&logo=github&logoColor=white)
-![IA](https://img.shields.io/badge/🧠_IA-6B8383?style=for-the-badge&logoColor=white)
+**Python | Power BI | Excel | Git | GitHub • HTML • CSS | JavaScript**
+
+## 🤝 Vamos nos conectar?
+
+Estou sempre aberto a trocar experiências sobre tecnologia, dados, automação e aprendizado na área.
+
+**LinkedIn:** linkedin.com/in/arthurputtomatti
