@@ -13,14 +13,15 @@ Antes de entrar na área de tecnologia, trabalhei com atendimento, vendas e cobr
 
 ## Projetos
 
-No repositório **Exercicios-Python**, organizo exercícios, pequenos sistemas e projetos que desenvolvo durante meus estudos.
+No repositório **Exercicios-Python**, organizo exercícios e pequenos sistemas que desenvolvo durante meus estudos.
 
-Alguns deles:
+Alguns projetos ganharam repositórios próprios conforme foram evoluindo:
 
-- **Sistema de Gerenciamento de Biblioteca** - Python e Programação Orientada a Objetos
-- **Simulador de Fila de Atendimento** - Python, FIFO e estruturas de dados
+- **[Sistema de Biblioteca em Python](https://github.com/Puttomatti/sistema-biblioteca-python)** — projeto utilizando Programação Orientada a Objetos para cadastro, empréstimo e devolução de livros.
 
-Pretendo continuar evoluindo esses projetos conforme avanço nos estudos.
+- **[Simulador de Fila de Atendimento](https://github.com/Puttomatti/simulador-fila-python)** — simulação de atendimento utilizando Python, FIFO, `deque` e estruturas de dados.
+
+Continuo evoluindo esses projetos e criando novos conforme avanço nos estudos.
 
 ## Tecnologias
 
