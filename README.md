@@ -24,7 +24,7 @@ Pretendo continuar evoluindo esses projetos conforme avanço nos estudos.
 
 ## Tecnologias
 
-Python · Power BI · Excel · Git · GitHub · HTML · CSS · JavaScript
+Python | Power BI | Excel | Git | GitHub | HTML | CSS | JavaScript
 
 📍 São Paulo, SP  
 🔗 LinkedIn: linkedin.com/in/arthurputtomatti
